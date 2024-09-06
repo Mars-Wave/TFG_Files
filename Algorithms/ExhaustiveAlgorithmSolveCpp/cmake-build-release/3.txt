@@ -1,0 +1,14 @@
+30
+6
+4
+30
+30
+30
+30
+30
+30
+60
+30
+30
+60
+//mas habitaciones que grupos

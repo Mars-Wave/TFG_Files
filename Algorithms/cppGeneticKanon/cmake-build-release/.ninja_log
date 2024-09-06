@@ -1,0 +1,8 @@
+# ninja log v6
+4	579	7472533413718882	build.ninja	4f677891d7416107
+7	3538	7472481676966863	CMakeFiles/cppGeneticKanon.dir/geneticKAnonimity.cpp.obj	3511f67e3e6265df
+3539	4093	7472481712285060	cppGeneticKanon.exe	1dcf6822d6afd1ea
+10	3877	7472533953040438	CMakeFiles/cppGeneticKanon.dir/geneticKAnonimity.cpp.obj	3511f67e3e6265df
+3878	4495	7472533991708807	cppGeneticKanon.exe	1dcf6822d6afd1ea
+13	4082	7472610358156691	CMakeFiles/cppGeneticKanon.dir/geneticKAnonimity.cpp.obj	3511f67e3e6265df
+4083	4660	7472610398848821	cppGeneticKanon.exe	1dcf6822d6afd1ea

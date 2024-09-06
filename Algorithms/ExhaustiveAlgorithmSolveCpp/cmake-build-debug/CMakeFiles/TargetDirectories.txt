@@ -1,0 +1,3 @@
+C:/Users/tmoro/Desktop/UCM/TFG/ExhaustiveAlgorithmSolveCpp/cmake-build-debug/CMakeFiles/ExhaustiveAlgorithmSolveCpp.dir
+C:/Users/tmoro/Desktop/UCM/TFG/ExhaustiveAlgorithmSolveCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tmoro/Desktop/UCM/TFG/ExhaustiveAlgorithmSolveCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

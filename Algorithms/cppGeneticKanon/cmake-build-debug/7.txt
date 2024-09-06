@@ -1,0 +1,14 @@
+800000
+800
+100
+4
+4
+400
+400
+400
+400
+100
+100
+100
+100
+//habitaciones mas grandes que grupos

@@ -1,0 +1,9 @@
+patients = 10;
+
+kGroups = 3;
+
+kGroupVector=[3,4,3];
+
+rooms = 3;
+
+roomCapacity = [6, 4, 3];

@@ -1,0 +1,14 @@
+10
+5
+5
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+//habitaciones igual de grandes que grupos
