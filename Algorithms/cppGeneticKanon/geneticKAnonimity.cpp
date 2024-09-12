@@ -786,7 +786,7 @@ int main(int argc, char *argv[]) {
 
         std::vector<Solution *> population(POPULATION_SIZE, nullptr);
 
-        for (int i = 0; i < 8; i++) {
+        for (int i = 0; i < 10; i++) {
             for (size_t i = 0; i < POPULATION_SIZE; ++i) {
                 if (SOLUTION_TYPE == static_cast<int>(SolutionType::RandomType)) {
                     population[i] = new RandomSolution();
@@ -837,9 +837,9 @@ int main(int argc, char *argv[]) {
         }
         appendDataToCSV(OUTPUT, {
                             std::to_string(MAXIMUM_POSSIBLE_KLEVEL),
-                            std::to_string(cumulKLevel / 8),
-                            std::to_string(cumulViolations / 8),
-                            std::to_string(totalTime / 8)
+                            std::to_string(cumulKLevel / 10),
+                            std::to_string(cumulViolations / 10),
+                            std::to_string(totalTime / 10)
                         });
     }
     if (RESULT_MODE == 1) {
